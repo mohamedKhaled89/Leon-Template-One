@@ -8,8 +8,8 @@ This HTML and CSS only landing page includes some interesting layout decisions. 
 
 ### Screenshot
 
-![Desktop Design](./Screenshot/desktop-design-1440px.png)
-![Mobile Design](./Screenshot/mobile-design-375px.png)
+![Desktop Design](./screenshot/desktop-design-1440px.png)
+![Mobile Design](./screenshot/mobile-design-375px.png)
 
 ### Links
 
